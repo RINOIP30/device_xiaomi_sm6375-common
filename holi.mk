@@ -512,5 +512,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
+# Packages
+PRODUCT_PACKAGES += \
+    GoogleCameraGo
+
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/sm6375-common/sm6375-common-vendor.mk)
