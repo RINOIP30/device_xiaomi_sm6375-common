@@ -340,4 +340,8 @@
     <!-- Radius of the software rounded corners at the bottom of the display in its natural
         orientation. If zero, the value of rounded_corner_radius is used. -->
     <dimen name="rounded_corner_radius_bottom">93px</dimen>
+    
+     <!-- Enable Night display, which requires HWC 2.0. -->
+    <bool name="config_nightDisplayAvailable">true</bool>
+>>>>>>> fe571f7 (sm6375-common: overlay: Add night display support)
 </resources>
