@@ -329,4 +329,7 @@
     
      <!-- Enable Night display, which requires HWC 2.0. -->
     <bool name="config_nightDisplayAvailable">true</bool>
+
+<!-- If true, the display will be shifted around in ambient mode. -->
+  <bool name="config_enableBurnInProtection">true</bool>
 </resources>
