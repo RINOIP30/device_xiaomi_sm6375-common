@@ -66,4 +66,4 @@ persist.vendor.sensors.enable.mag_filter=true
 ro.sf.skip_set_active_mode_when_off=1
 
 # Camera
-vendor.camera.aux.packagelist=com.android.camera
+vendor.camera.aux.packagelist=com.android.camera,org.pixelexperience.faceunlock
